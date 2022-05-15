@@ -783,9 +783,10 @@ https://rinkeby.etherscan.io/address/0x78741dFe96eb3F9eDCA42635b2DE5c5590C6a712
   ]
 ```
 # Open Seas Marketplace
-The Open Seas Marketplace for the project is located here - https://testnets.opensea.io/collection/rmp-mintabletoken. There were 10 tokens minted (https://rinkeby.etherscan.io/address/0x78741dFe96eb3F9eDCA42635b2DE5c5590C6a712) and 5 property tokens put up for sell and purchased. 
+The Open Seas Marketplace for the project is located here - https://testnets.opensea.io/collection/rmp-mintabletoken. 
+There were 10 tokens minted (https://rinkeby.etherscan.io/address/0x78741dFe96eb3F9eDCA42635b2DE5c5590C6a712) and 5 property tokens put up for sell and purchased. 
 
-## Open Seas
+## Open Seas Profile
 - Project marketplace: https://testnets.opensea.io/collection/rmp-mintabletoken
 - Test Account Owner of marketplace: 0x42f46ad466E9c5896f8f1b7EAADCDf5aa83B594c
 - Test Account Who Purchased Tokens: 0x19f2a52c897dDcDf5861286beb9A5AA500ba3d65
