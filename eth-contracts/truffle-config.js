@@ -25,10 +25,8 @@
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "4ffeb446deef459c960ce20e39611209";
-
-const mnemonic = "frozen race orphan cube average neutral will enjoy bleak stove make wrist";
-const privateKey = "0x19f2a52c897dDcDf5861286beb9A5AA500ba3d65";
+const infuraKey = "";
+const privateKey = "";
 
 module.exports = {
   /**
